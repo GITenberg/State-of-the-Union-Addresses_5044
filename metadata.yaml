@@ -1,0 +1,27 @@
+_repo: State-of-the-Union-Addresses_5044
+creator:
+  author:
+    agent_name: Ford, Gerald R.
+    aliases:
+    - King, Leslie Lynch
+    - United States President (1974-1977)
+    birthdate: 1913
+    deathdate: 2006
+    gutenberg_agent_id: '1669'
+    url: http://www.gutenberg.org/2009/agents/1669
+    wikipedia: http://en.wikipedia.org/wiki/Gerald_Ford
+description: ''
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5044'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Presidents -- United States -- Messages'
+- !lcc 'J'
+- !lcsh 'United States -- Politics and government -- Sources'
+title: State of the Union Addresses
+url: http://www.gutenberg.org/ebooks/5044
